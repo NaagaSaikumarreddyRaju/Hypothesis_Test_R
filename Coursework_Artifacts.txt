@@ -1,1 +1,9 @@
-"Coursework" 
+CourseWork To Be Done.
+
+1.Create Trello board and invite team members and Dr.john Noll.
+2.Create Git Repository and invite Dr.John Noll and submit Url via Canvas. Due Date is 2020-11-20.
+3.Research Question and Dataset(Due 2020-11-27) - We have to download a data set from www.kaggle.com, commit and push dataset( In CSV format only) to github.
+4.Formulate one Research question and can be answered using correlation analysis, comparison means or products.We have to write our Research Question, Null, And Alternative hypotheses in a specified format and push our file to Git Hub.
+5.Visualization and Descriptive Statistics(due 2020-12-11) - Create a script and name it as  Visualization.R which will load our dataset. We need to create appropriate visualization of our data and push our Visualization.R file to Github.
+6.Final Report(Due 2021-01-08) -  Check the course work details that specify Guidelines for the report.
+7.Peer Evalution(Due 2021-01-08)-  Contribution of your work to your project.
