@@ -1,0 +1,21 @@
+Group: group 179
+    
+    Question
+    ========
+    
+    RQ: Is there a difference in the mean of the suicides number between male and female?
+    
+    Null hypothesis: There is no difference in the mean of the suicides number between male and female.
+    
+    Alternative hypothesis: There is a difference in the mean of the suicides number between male and female.
+    
+    Dataset
+    =======
+    
+    URL: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+    
+    Column Headings:
+    
+    ```
+    > head_df <- read.csv("master.csv")
+    > colnames(head_df)        [1] "country"            "year"               "sex"                       [4] "age"                "suicides_no"        "population"                [7] "suicides.100k.pop"  "country.year"       "HDI.for.year"              [10] "gdp_for_year...."   "gdp_per_capita...." "generation"
