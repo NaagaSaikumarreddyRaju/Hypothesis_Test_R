@@ -3,7 +3,7 @@ Group: group 179
     Question
     ========
     
-    RQ: Is there a difference in the mean of the suicides number between male and female?
+    RQ: Is there a difference in the mean of the number of suicides between male and female?
     
     Null hypothesis: There is no difference in the mean of the suicide numbers between male and female.
     
