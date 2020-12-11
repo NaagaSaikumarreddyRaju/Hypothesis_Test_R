@@ -1,3 +1,5 @@
+install.packages("tidyverse")
+
 pdf("visualization.pdf")
 
 df<- read.csv("master.csv")
