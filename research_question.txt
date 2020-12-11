@@ -17,5 +17,9 @@ Group: group 179
     Column Headings:
     
     ```
-    > head_df <- read.csv("master.csv")
-    > colnames(head_df)        [1] "country"            "year"               "sex"                       [4] "age"                "suicides_no"        "population"                [7] "suicides.100k.pop"  "country.year"       "HDI.for.year"              [10] "gdp_for_year...."   "gdp_per_capita...." "generation"
+    > df <- read.csv("master.csv")
+    > colnames(df)
+        [1] "country"            "year"               "sex"               
+        [4] "age"                "suicides_no"        "population"        
+        [7] "suicides.100k.pop"  "country.year"       "HDI.for.year"      
+        [10] "gdp_for_year...."   "gdp_per_capita...." "generation"
