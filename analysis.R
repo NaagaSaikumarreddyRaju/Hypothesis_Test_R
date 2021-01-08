@@ -2,8 +2,6 @@ install.packages("tidyverse")
 df <- read.csv("master.csv")
 
 # We've Performed Student's T test to Check dependency of Suicides Rate on Gender
-#Ho = "Gender has no effect on suicides"   # Stating the Null Hypothesis
-#Ha = "Gender has an effect on suicides"   # Stating the Alternate Hypothesis
 
 males_suicides=df[df['sex'] == 'male','suicides.100k.pop']
 females_suicides=df[df['sex'] == 'female','suicides.100k.pop']
