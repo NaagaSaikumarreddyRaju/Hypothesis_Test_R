@@ -1,0 +1,36 @@
+Installing package into ‘/home/jnoll/R/x86_64-pc-linux-gnu-library/3.4’
+(as ‘lib’ is unspecified)
+trying URL 'https://cloud.r-project.org/src/contrib/tidyverse_1.3.0.tar.gz'
+Content type 'application/x-gzip' length 712837 bytes (696 KB)
+==================================================
+downloaded 696 KB
+
+* installing *source* package ‘tidyverse’ ...
+** package ‘tidyverse’ successfully unpacked and MD5 sums checked
+** R
+** inst
+** preparing package for lazy loading
+** help
+*** installing help indices
+*** copying figures
+** building package indices
+** installing vignettes
+** testing if installed package can be loaded
+* DONE (tidyverse)
+
+The downloaded source packages are in
+	‘/home/jnoll/tmp/RtmpkDdzAJ/downloaded_packages’
+
+	Two Sample t-test
+
+data:  males_suicides and females_suicides
+t = 70.961, df = 27818, p-value < 2.2e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ 14.43638 15.25655
+sample estimates:
+mean of x mean of y 
+20.239329  5.392866 
+
+null device 
+          1 
